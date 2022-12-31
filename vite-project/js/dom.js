@@ -28,7 +28,7 @@ DOMSelectors.button.addEventListener("click", function () {
     document.body.classList.add("rebranddark");
     document.body.classList.remove("rebrandlight");
   } else {
-    document.body.classList.add("rebranddark");
-    document.body.classList.remove("rebrandlight");
+    document.body.classList.add("rebrandlight");
+    document.body.classList.remove("rebranddark");
   }
 });

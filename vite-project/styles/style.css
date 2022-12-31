@@ -1,1 +1,21 @@
-body{background-color: rgb(177, 125, 194);}
+body{background-color:var(--2);}
+.height{height: 200px;}
+:root{
+    --color1: rgb(35, 112, 193);
+    --color2: rgb(38, 205, 110);
+    --color3: rgb(131, 216, 233);
+    --color4: rgb(5, 54, 28);
+    --color5: rgb(22, 12, 115);
+    --color6: rgb(90, 173, 148);}
+.rebranddark{ 
+    --1: var(--color2);
+    --2: var(--color1);
+    --3: var(--color3);
+    --4: var(--color5);  
+   }
+.rebrandlight {
+    --1: var(--color1);
+    --2: var(--color2);
+    --3: var(--color4);
+    --4: var(--color6);
+   }

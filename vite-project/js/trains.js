@@ -4,7 +4,7 @@ const train = [
     color: "blue",
     era: "classic",
     size: "little",
-    type: "steam engine",
+    type: "steam",
     img: "https://upload.wikimedia.org/wikipedia/en/d/dc/Thomas_Tank_Engine_1.JPG",
   },
   {
@@ -12,15 +12,15 @@ const train = [
     color: "green",
     era: "classic",
     size: "little",
-    type: "steam engine",
-    img: "https://static.wikia.nocookie.net/thomashttps://i.pinimg.com/736x/67/43/b2/6743b2897d065c5051bc0317827ba673.jpg",
+    type: "steam",
+    img: "https://i.pinimg.com/originals/0c/84/ce/0c84ce1a9f4141207d3fffde11f38e4d.png",
   },
   {
     name: "James",
     color: "red",
     era: "classic",
     size: "medium",
-    type: "steam engine",
+    type: "steam",
     img: "https://upload.wikimedia.org/wikipedia/en/f/f9/Thomas_and_Friends_James.jpg",
   },
   {
@@ -28,7 +28,7 @@ const train = [
     color: "blue",
     era: "classic",
     size: "big",
-    type: "steam engine",
+    type: "steam",
     img: "https://i.pinimg.com/736x/56/93/89/56938952c4294432a188883f095ec42d.jpg",
   },
   {
@@ -36,7 +36,7 @@ const train = [
     color: "blue",
     era: "classic",
     size: "medium",
-    type: "steam engine",
+    type: "steam",
     img: "https://i.pinimg.com/736x/99/1e/08/991e08b3f13caa6af2acb65e259f1b60.jpg",
   },
   {
@@ -44,7 +44,7 @@ const train = [
     color: "brown",
     era: "classic",
     size: "little",
-    type: "steam engine",
+    type: "steam",
     img: " https://i.pinimg.com/736x/e7/a7/e4/e7a7e4ad534718c0deafd4ea5c155c58.jpg",
   },
   {
@@ -52,7 +52,7 @@ const train = [
     color: "orange",
     era: "reboot",
     size: "medium",
-    type: "steam engine",
+    type: "steam",
     img: "https://i.pinimg.com/736x/75/d3/6d/75d36d61612e83b6bf653fd27422f509.jpg",
   },
   {
@@ -60,7 +60,7 @@ const train = [
     color: "green",
     era: "classic",
     size: "big",
-    type: "steam engine",
+    type: "steam",
     img: "https://i.pinimg.com/736x/bc/c8/39/bcc839d0358e50b9a8268068bc688cbd.jpg",
   },
   {
@@ -84,7 +84,7 @@ const train = [
     color: "black",
     era: "reboot",
     size: "big",
-    type: "steam engine",
+    type: "steam",
     img: "https://i.pinimg.com/originals/47/fc/57/47fc57c7be183e9b2a49f1de36fc238d.png",
   },
   {
@@ -100,7 +100,7 @@ const train = [
     color: "red",
     era: "classic",
     size: "small",
-    type: "road vehicles",
+    type: "road",
     img: "https://i.pinimg.com/736x/a0/01/61/a00161985e4a6f0c848d80c98c0e58d6.jpg",
   },
   {
@@ -108,7 +108,7 @@ const train = [
     color: "red",
     era: "classic",
     size: "small",
-    type: "road vehicles",
+    type: "road",
     img: "https://i.pinimg.com/originals/d0/2b/0b/d02b0b142b3763d47846bc66b9f2b7d0.jpg",
   },
   {
@@ -116,7 +116,7 @@ const train = [
     color: "red",
     era: "reboot",
     size: "small",
-    type: "road vehicles",
+    type: "road",
     img: "https://i.pinimg.com/originals/6b/4d/18/6b4d18c46a112e38d5faa8031e80c949.png",
   },
   {
@@ -124,7 +124,7 @@ const train = [
     color: "grey",
     era: "reboot",
     size: "big",
-    type: "steam engine",
+    type: "steam",
     img: "https://i.pinimg.com/originals/f3/38/3e/f3383ec55bef786db753811e98f86820.png",
   },
   {
@@ -132,7 +132,7 @@ const train = [
     color: "red",
     era: "classic",
     size: "small",
-    type: "road vehicles",
+    type: "road",
     img: "https://i.pinimg.com/originals/d8/d2/cb/d8d2cb3056d043c1308c3a2f2878483c.png",
   },
   {
@@ -140,7 +140,7 @@ const train = [
     color: "yellow",
     era: "reboot",
     size: "small",
-    type: "road vehicles",
+    type: "road",
     img: "https://i.pinimg.com/originals/24/c5/8f/24c58feeb7d42506b55e7c03f09a4d59.png",
   },
   {
@@ -180,7 +180,7 @@ const train = [
     color: "red",
     era: "reboot",
     size: "small",
-    type: "steam engine",
+    type: "steam",
     img: "https://i.pinimg.com/736x/9c/59/94/9c5994b0ef266956533576531b00ed17--thomas-and-friends-card-stock.jpg",
   },
   {
@@ -188,7 +188,7 @@ const train = [
     color: "grey",
     era: "classic",
     size: "big",
-    type: "steam engine",
+    type: "steam",
     img: "https://i.pinimg.com/originals/eb/df/95/ebdf95f95ac9eaa2386f553b5a9f5006.png",
   },
   {
@@ -196,7 +196,7 @@ const train = [
     color: "grey",
     era: "classic",
     size: "small",
-    type: "steam engine",
+    type: "steam",
     img: "https://i.pinimg.com/originals/ba/ea/ac/baeaac8b0d587e4770950545441831d5.png",
   },
   {
@@ -204,7 +204,7 @@ const train = [
     color: "yellow",
     era: "classic",
     size: "small",
-    type: "steam engine",
+    type: "steam",
     img: "https://i.pinimg.com/originals/be/d0/75/bed075f282d84a95a7cfd7baf46f3c26.png",
   },
   {
@@ -212,7 +212,7 @@ const train = [
     color: "red",
     era: "classic",
     size: "small",
-    type: "road vehicles",
+    type: "road",
     img: "https://i.pinimg.com/736x/e5/65/2e/e5652e28ed9195e82c30b9faa32a372a.jpg",
   },
   {
@@ -228,7 +228,7 @@ const train = [
     color: "purple",
     era: "classic",
     size: "small",
-    type: "steam engine",
+    type: "steam",
     img: "https://i.pinimg.com/originals/d6/84/63/d68463f98562593c1bceccff96bf990c.png",
   },
   {
@@ -236,7 +236,7 @@ const train = [
     color: "yellow",
     era: "reboot",
     size: "big",
-    type: "steam engine",
+    type: "steam",
     img: "https://i.pinimg.com/originals/4f/d4/1e/4fd41e00d77e9bcddb5d2a8e144dec8c.png",
   },
   {
@@ -244,7 +244,7 @@ const train = [
     color: "purple",
     era: "reboot",
     size: "medium",
-    type: "steam engine",
+    type: "steam",
     img: "https://i.pinimg.com/originals/91/d3/66/91d366e51fc2bb851cf80022646538f2.png",
   },
   {
@@ -252,7 +252,7 @@ const train = [
     color: "purple",
     era: "reboot",
     size: "small",
-    type: "steam engine",
+    type: "steam",
     img: "https://i.pinimg.com/736x/6a/f8/04/6af804e0874c3cf9865965701e49efcb--thomas-and-friends-thomas-the-train.jpg",
   },
   {
@@ -260,8 +260,16 @@ const train = [
     color: "orange",
     era: "classic",
     size: "small",
-    type: "steam engine",
+    type: "steam",
     img: "https://i.pinimg.com/originals/b5/be/c5/b5bec5474a765cc0cb5da923bb8fbaf3.png",
+  },
+  {
+    name: "Henry",
+    color: "green",
+    era: "classic",
+    size: "big",
+    type: "steam",
+    img: "https://i.pinimg.com/564x/7b/6b/bc/7b6bbce6aaba6a09860e9534c33aa84d--henry-thomas-engine.jpg",
   },
 ];
 export { train };
