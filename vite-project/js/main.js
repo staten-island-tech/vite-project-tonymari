@@ -341,6 +341,24 @@ const options = {
         });
     });
   },
+  getDesiel: function () {
+    document.getElementById("diesel").addEventListener("click", function () {
+      remove();
+      train
+        .filter((el) => el.type.includes("diesel"))
+        .forEach((el) => {
+          console.log(el.name);
+          DOMSelectors.box.insertAdjacentHTML(
+            "beforeend",
+            `
+          <div class="sodor">
+          <p>${el.name}</p>
+          <img class="height" src="${el.img}" alt="add image">       
+          </div>`
+          );
+        });
+    });
+  },
   getRoad: function () {
     document.getElementById("road").addEventListener("click", function () {
       remove();
@@ -380,3 +398,4 @@ options.getTiny();
 options.getSteam();
 options.getHuman();
 options.getRoad();
+options.getDesiel();

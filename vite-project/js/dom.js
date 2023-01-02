@@ -18,6 +18,7 @@ const DOMSelectors = {
   button16: document.getElementById("steam engine"),
   button17: document.getElementById("human"),
   button18: document.getElementById("road vehicles"),
+  button19: document.getElementById("diesel"),
   box: document.getElementById("boxarea"),
 };
 
