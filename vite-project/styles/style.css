@@ -81,9 +81,10 @@ font-family: 'Rubik Bubbles', cursive;
 .sodor{
     width: 350px;
     padding: 5px,5px,10px,5px;
-    border-radius: 30px;
+    border-radius: 100px;
     background-color: var(--3);
     border: solid var(--4);
+    border-width: 10px;
     color: var(--2);
     text-align: center;
     font-size: 29px;
